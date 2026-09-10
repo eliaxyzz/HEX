@@ -1,0 +1,5 @@
+/*
+ * app.rc - Risorse dell'eseguibile Windows.
+ */
+
+1 ICON "assets/icon.ico"
