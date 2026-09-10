@@ -1,0 +1,14 @@
+hex_game
+hex_game.exe
+.vscode/
+.idea/
+cmake-build-debug/
+
+build/
+*.o
+
+saves/
+
+HEX_Release/
+
+settings.ini
